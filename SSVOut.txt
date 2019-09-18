@@ -1,0 +1,40 @@
+The Sudoku Puzzle Was Input:
+
+5	3	4	6	7	8	9	1	2	
+6	7	2	1	9	5	3	4	8	
+1	9	8	3	4	2	5	6	7	
+8	5	9	7	6	1	4	2	3	
+4	2	6	8	5	3	7	9	1	
+7	1	3	9	2	4	8	5	6	
+9	6	1	5	3	7	2	8	4	
+2	8	7	4	1	9	6	3	5	
+3	4	5	2	8	6	1	7	9	
+
+End of Puzzle
+15c26700 TRow: 9, BRow: 1, LCol: 7, RCol: 6 valid!
+15425700 TRow: 9, BRow: 1, LCol: 8, RCol: 7 valid!
+16427700 TRow: 9, BRow: 1, LCol: 6, RCol: 5 valid!
+14c24700 TRow: 9, BRow: 1, LCol: 9, RCol: 8 valid!
+16c28700 TRow: 9, BRow: 1, LCol: 5, RCol: 4 valid!
+17429700 TRow: 9, BRow: 1, LCol: 4, RCol: 3 valid!
+17c2a700 TRow: 9, BRow: 1, LCol: 3, RCol: 2 valid!
+1842b700 TRow: 9, BRow: 1, LCol: 2, RCol: 1 valid!
+18c2c700 TRow: 9, BRow: 1, LCol: 1, RCol: 0 valid!
+1842b700 TRow: 6, BRow: 6, LCol: 1, RCol: 8 valid!
+17c2a700 TRow: 7, BRow: 7, LCol: 1, RCol: 8 valid!
+17429700 TRow: 8, BRow: 8, LCol: 1, RCol: 8 valid!
+16c28700 TRow: 9, BRow: 9, LCol: 1, RCol: 8 valid!
+18c2c700 TRow: 5, BRow: 5, LCol: 1, RCol: 8 valid!
+16427700 TRow: 4, BRow: 4, LCol: 1, RCol: 8 valid!
+15c26700 TRow: 3, BRow: 3, LCol: 1, RCol: 8 valid!
+15425700 TRow: 2, BRow: 2, LCol: 1, RCol: 8 valid!
+14c24700 TRow: 1, BRow: 1, LCol: 1, RCol: 8 valid!
+16427700 TRow: 6, BRow: 4, LCol: 7, RCol: 8 valid!
+15c26700 TRow: 9, BRow: 7, LCol: 1, RCol: 2 valid!
+15425700 TRow: 9, BRow: 7, LCol: 4, RCol: 5 valid!
+14c24700 TRow: 9, BRow: 7, LCol: 7, RCol: 8 valid!
+18c2c700 TRow: 6, BRow: 4, LCol: 4, RCol: 5 valid!
+1842b700 TRow: 6, BRow: 4, LCol: 1, RCol: 2 valid!
+17c2a700 TRow: 3, BRow: 1, LCol: 7, RCol: 8 valid!
+17429700 TRow: 3, BRow: 1, LCol: 4, RCol: 5 valid!
+16c28700 TRow: 3, BRow: 1, LCol: 1, RCol: 2 valid!
